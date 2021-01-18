@@ -1,0 +1,24 @@
+{
+  "name": "Pipedrive",
+  "version": "1.0.0",
+  "description": "Pipedrive API hacks",
+  "main": "Merge_Pipedrive_Duplicate_Contacts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Magejo/Pipedrive.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Magejo/Pipedrive/issues"
+  },
+  "homepage": "https://github.com/Magejo/Pipedrive#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "fast-csv": "^4.3.6"
+  }
+}
